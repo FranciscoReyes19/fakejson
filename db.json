@@ -1,0 +1,51 @@
+{
+    "expedientes": [
+        {
+            "createdAt": "2020-05-11T00:05:00Z",
+            "updatedAt": "2020-05-12T00:05:00Z",
+            "id": 1,
+            "name": "Francisco",
+            "adn": "GTGCTATAAAGCCTTTGTAGAGGGCCGCAATCACTG",
+            "result": false
+        },
+        {
+            "createdAt": "2020-05-11T00:06:00Z",
+            "updatedAt": "2020-05-12T00:05:00Z",
+            "id": 11,
+            "name": "Antonio",
+            "adn": "GTGCTATAAAGCCTATGTAGAGGGCCGCAATCACTG",
+            "result": false
+        },
+        {
+            "createdAt": "2020-05-11T00:07:00Z",
+            "updatedAt": "2020-05-12T00:05:00Z",
+            "id": 21,
+            "name": "Raul",
+            "adn": "GTGCTTTAAGGCCTTTGTAGAGGGCCGCAATCACTG",
+            "result": false
+        },
+        {
+            "createdAt": "2020-05-11T00:08:00Z",
+            "updatedAt": "2020-05-12T00:05:00Z",
+            "id": 31,
+            "name": "Juan",
+            "adn": "GTGCTTTAAGGCCTTTGTAGAGGGCCGCAATCACTT",
+            "result": true
+        },
+        {
+            "createdAt": "2020-05-11T00:09:00Z",
+            "updatedAt": "2020-05-12T00:05:00Z",
+            "id": 41,
+            "name": "Andrea",
+            "adn": "GTGCTTTAAGGCCTTTGTAGAGGGCCGCAATCACTA",
+            "result": true
+        },
+        {
+            "createdAt": "2020-05-11T00:10:00Z",
+            "updatedAt": "2020-05-12T00:05:00Z",
+            "id": 51,
+            "name": "Pedro",
+            "adn": "ATGCTTTAAGGCCTTTGTAGAGGGCCGCAATCACTT",
+            "result": true
+        }
+    ]}
