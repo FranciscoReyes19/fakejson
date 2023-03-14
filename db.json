@@ -48,4 +48,27 @@
             "adn": "ATGCTTTAAGGCCTTTGTAGAGGGCCGCAATCACTT",
             "result": true
         }
-    ]}
+    ],
+    "poiSuggested": [
+        {"poiSuggestedId":1,"name": "Planta San Luis", "no_vehicles": 67, "no_arrives":39, "dwell_time_average":"01:30"},
+        {"poiSuggestedId":2,"name": "Planta Venezuela", "no_vehicles": 77, "no_arrives":99, "dwell_time_average":"01:30"},
+        {"poiSuggestedId":3,"name": "Planta Puebla", "no_vehicles": 17, "no_arrives":69, "dwell_time_average":"01:30"},
+        {"poiSuggestedId":4,"name": "Planta Guanajuato", "no_vehicles": 37, "no_arrives":39, "dwell_time_average":"01:40"},
+        {"poiSuggestedId":5,"name": "Planta Oaxaca", "no_vehicles": 37, "no_arrives":59, "dwell_time_average":"01:40"},
+        {"poiSuggestedId":6,"name": "Planta Guadalajara", "no_vehicles": 47, "no_arrives":9, "dwell_time_average":"01:50"},
+        {"poiSuggestedId":7,"name": "Planta Colima", "no_vehicles": 87, "no_arrives":54, "dwell_time_average":"01:50"},
+        {"poiSuggestedId":8,"name": "Planta CDMX", "no_vehicles": 47, "no_arrives":91, "dwell_time_average":"01:50"},
+        {"poiSuggestedId":9,"name": "Planta Cancún", "no_vehicles": 7, "no_arrives":15, "dwell_time_average":"01:50"},
+        {"poiSuggestedId":10,"name": "Planta Orizaba", "no_vehicles": 30, "no_arrives":54, "dwell_time_average":"01:50"},
+        {"poiSuggestedId":11,"name": "Planta Mendoza", "no_vehicles": 67, "no_arrives":39, "dwell_time_average":"01:30"},
+        {"poiSuggestedId":12,"name": "Planta Chile", "no_vehicles": 77, "no_arrives":99, "dwell_time_average":"01:30"},
+        {"poiSuggestedId":13,"name": "Planta Venecia", "no_vehicles": 17, "no_arrives":69, "dwell_time_average":"01:30"},
+        {"poiSuggestedId":14,"name": "Planta Italia", "no_vehicles": 37, "no_arrives":39, "dwell_time_average":"01:40"},
+        {"poiSuggestedId":15,"name": "Planta Hidalgo", "no_vehicles": 37, "no_arrives":59, "dwell_time_average":"01:40"},
+        {"poiSuggestedId":16,"name": "Planta California", "no_vehicles": 47, "no_arrives":9, "dwell_time_average":"01:50"},
+        {"poiSuggestedId":17,"name": "Planta Monterrey", "no_vehicles": 87, "no_arrives":54, "dwell_time_average":"01:50"},
+        {"poiSuggestedId":18,"name": "Planta Morelia", "no_vehicles": 47, "no_arrives":91, "dwell_time_average":"01:50"},
+        {"poiSuggestedId":19,"name": "Planta Chihuahua", "no_vehicles": 7, "no_arrives":15, "dwell_time_average":"01:50"},
+        {"poiSuggestedId":20,"name": "Planta Ixtac", "no_vehicles": 30, "no_arrives":54, "dwell_time_average":"01:50"}
+    ]
+}
