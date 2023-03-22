@@ -1,54 +1,4 @@
 {
-    "expedientes": [
-        {
-            "createdAt": "2020-05-11T00:05:00Z",
-            "updatedAt": "2020-05-12T00:05:00Z",
-            "id": 1,
-            "name": "Francisco",
-            "adn": "GTGCTATAAAGCCTTTGTAGAGGGCCGCAATCACTG",
-            "result": false
-        },
-        {
-            "createdAt": "2020-05-11T00:06:00Z",
-            "updatedAt": "2020-05-12T00:05:00Z",
-            "id": 11,
-            "name": "Antonio",
-            "adn": "GTGCTATAAAGCCTATGTAGAGGGCCGCAATCACTG",
-            "result": false
-        },
-        {
-            "createdAt": "2020-05-11T00:07:00Z",
-            "updatedAt": "2020-05-12T00:05:00Z",
-            "id": 21,
-            "name": "Raul",
-            "adn": "GTGCTTTAAGGCCTTTGTAGAGGGCCGCAATCACTG",
-            "result": false
-        },
-        {
-            "createdAt": "2020-05-11T00:08:00Z",
-            "updatedAt": "2020-05-12T00:05:00Z",
-            "id": 31,
-            "name": "Juan",
-            "adn": "GTGCTTTAAGGCCTTTGTAGAGGGCCGCAATCACTT",
-            "result": true
-        },
-        {
-            "createdAt": "2020-05-11T00:09:00Z",
-            "updatedAt": "2020-05-12T00:05:00Z",
-            "id": 41,
-            "name": "Andrea",
-            "adn": "GTGCTTTAAGGCCTTTGTAGAGGGCCGCAATCACTA",
-            "result": true
-        },
-        {
-            "createdAt": "2020-05-11T00:10:00Z",
-            "updatedAt": "2020-05-12T00:05:00Z",
-            "id": 51,
-            "name": "Pedro",
-            "adn": "ATGCTTTAAGGCCTTTGTAGAGGGCCGCAATCACTT",
-            "result": true
-        }
-    ],
     "poiSuggested": [
         {
             "cluster_id": 8460,
@@ -192,24 +142,7 @@
             "places_name": [
                 "C T Business Sales & Services",
                 "Online Business Systems",
-                "Council of Smaller Enterprises",
-                "Business News Daily",
-                "[A]",
-                "SBIR",
-                "SCORE",
-                "California Governor's Office of Business and Economic Development (GO-Biz)",
-                "JP Morgan Chase Business Center",
-                "South Carolina Business",
-                "US Small Business Administration - Boise District Office",
-                "Tennessee Secretary of State, Division of Business Services",
-                "Business Professionals of America",
-                "Better Business",
-                "Delaware Division of Small Business",
-                "Significance, Inc.",
-                "Navigate",
-                "The Team Companies",
-                "Florida State University College of Business",
-                "Oregon State University - College of Business"
+                "Council of Smaller Enterprises"
             ]
         },
         {
@@ -218,25 +151,7 @@
             "cluster_geometry": "POLYGON((-109.703983 23.07727, -109.703976 23.077251, -109.703935 23.077218, -109.703928 23.077213, -109.703916 23.077211, -109.703816 23.07722, -109.703811 23.077221, -109.70381 23.077271, -109.703811 23.077288, -109.703861 23.077348, -109.703862 23.077349, -109.703883 23.077356, -109.703928 23.07735, -109.703983 23.07727))",
             "places_name": [
                 "BCS Emprendedores",
-                "ContractsIntercompany.",
-                "ENTORNO BUSINESS STRATEGY",
-                "Baja Business Solutions SA de CV",
-                "BESTVALIU",
-                "Bestform Consulting",
-                "BUSINESS CENTER",
-                "Kamalchi S.A. de C.V.",
-                "WARTENBERG CONSULTING",
-                "Kapcie Consultores S.C.",
-                "DeMarck Pharmacy",
-                "Cabe Business Center",
-                "Servicio profesional de freelance",
-                "CPlanning Construction & Business Cabo",
-                "Core Business Contadores & Abogados",
-                "OlacheaS Consultoría de Gestión y Negocios",
-                "MotoMandados MR",
-                "Foster Business Center",
-                "Montaggio",
-                "Despacho Sandoval Contadores Públicos"
+                "ContractsIntercompany."
             ]
         },
         {
@@ -246,24 +161,7 @@
             "places_name": [
                 "Business Closers",
                 "Business Art",
-                "HOBSDMC",
-                "Business Mind Consulting",
-                "WTCB",
-                "SABD",
-                "BSGN CONSULTING GROUP CUN/ZH",
-                "EKCONLLC",
-                "Capitalia IA",
-                "BSGN Consulting Group",
-                "Trustme",
-                "Grupo C&C Asesores",
-                "IMEGA",
-                "Cubamex",
-                "Wartenberg Consulting",
-                "INCUBING",
-                "HIZMET",
-                "Globel Brokers",
-                "consultua",
-                "ADMIN SOLUCIONES INTEGRALES SA DE CV"
+                "HOBSDMC"
             ]
         },
         {
@@ -272,25 +170,7 @@
             "cluster_geometry": "POLYGON((-122.615035 48.89765, -122.614566 48.89802, -122.614575 48.898082, -122.615268 48.898312, -122.615753 48.898397, -122.615035 48.89765))",
             "places_name": [
                 "Grandview Business Center",
-                "Whatcom Business Consultants",
-                "ProjectWorks Inc.",
-                "Peace Arch Business Center",
-                "Creative Business Futures, Inc.",
-                "Business Support Services Northwest, LLC",
-                "Daring Business Strategies, Inc.",
-                "Abrige Corp.",
-                "BizCan Management Corp",
-                "Padgett Business Services",
-                "Campbell Heights West Business Park",
-                "Pacific Coast Business Services Ltd",
-                "Dimensional Business Solutions",
-                "Buckhiester Management USA Inc.",
-                "Local Business Grower",
-                "Ferndale Chamber of Commerce",
-                "Thrive Business Group",
-                "Tom Dorr & Associates Consulting",
-                "Alberstein Consulting",
-                "AHN Tax & Business Advisors"
+                "Whatcom Business Consultants"
             ]
         },
         {
@@ -300,24 +180,8 @@
             "places_name": [
                 "ContractsIntercompany.",
                 "Baja Business Solutions SA de CV",
-                "ENTORNO BUSINESS STRATEGY",
-                "Cabe Business Center",
-                "BCS Emprendedores",
-                "Bestform Consulting",
-                "Kapcie Consultores S.C.",
-                "DeMarck Pharmacy",
-                "BESTVALIU",
-                "Kamalchi S.A. de C.V.",
-                "BUSINESS CENTER",
-                "WARTENBERG CONSULTING",
-                "Core Business Contadores & Abogados",
-                "La Dolce",
-                "CPlanning Construction & Business Cabo",
-                "Servicio profesional de freelance",
-                "Montaggio",
-                "OlacheaS Consultoría de Gestión y Negocios",
-                "Foster Business Center",
-                "MotoMandados MR"
+                "ENTORNO BUSINESS STRATEGY"
+
             ]
         }
     ]
